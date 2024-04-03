@@ -29,5 +29,5 @@ bin/
 .DS_Store
 
 # Игнорирование папок и файлов
-/idea
-.iml
+/.idea
+*_iml
